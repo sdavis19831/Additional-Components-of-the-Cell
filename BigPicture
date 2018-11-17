@@ -1,0 +1,195 @@
+
+# Welcome to:
+# The Repositery (Repositery Number 2.0) for the Additional Components of the Cellphone (the Cellphone referring to the Cellphone from the other Repositery (Repositery Number 1.0)
+
+/** None for now at this point in the present (lol)
+*/
+  /** However, in the future, there will be much more to this code.
+  */
+
+/** ... 
+*/
+/**
+* Write a description of CellphoneTowerorCellphoneGrid here
+*
+* Author(s) (Full Name(s)) 5 Authors (Stephen Davis, Michael Davis, Katie Davis, Dawn Davis, and Robert Davis)
+* Date(s) (Every Date or All Dates) 1 Date (November 17, 2018 (11/17/2018))
+*/
+/** Add in any Imports and Exports
+*/
+import java.util.ArrayList;
+import java.util.*;
+import java.awt.*;
+/** Define Public Class below
+*/
+public class BigPicture
+{
+# Welcome to:
+# The Repositery (Repositery Number 2.0) for the Additional Components of the Cellphone (the Cellphone referring to the Cellphone from the other Repositery (Repositery Number 1.0)
+
+/** None for now at this point in the present (lol)
+*/
+  /** However, in the future, there will be much more to this code.
+  */
+
+/** ... 
+*/
+/**
+* Write a description of CellphoneTowerorCellphoneGrid here
+*
+* Author(s) (Full Name(s)) 5 Authors (Stephen Davis, Michael Davis, Katie Davis, Dawn Davis, and Robert Davis)
+* Date(s) (Every Date or All Dates) 1 Date (November 17, 2018 (11/17/2018))
+*/
+/** Add in any Imports and Exports
+*/
+import java.util.ArrayList;
+import java.util.*;
+import java.awt.*;
+/** Define Public Class below
+*/
+    public class CellphoneTowerorCellphoneGrid
+      {  
+/** Instance Variables - Please Replace the Examples Ones Below with Ones of Your Own
+        private String CellphoneTower;
+        private String or;
+        private String CellphoneGrid;
+      }
+/** Undefinite Instance Variables - Basic Values for Each Instance Variables (Strings = "", Integers = 0, etc.)
+*/
+    CellphoneTowerorCellphoneGrid()    
+      {      
+        CellphoneTower = "";
+        or = "":
+        CellphoneGird = "";     
+      }
+/** Definite Instance Variables - Import Each Certain Values for Each Instance Variable
+*/
+    CellphoneTowerorCellphoneGrid(String Tower, String orzo, String Grid)
+      {      
+        CellphoneTower = "";
+        CellphoneTower = Tower;
+        or = "";
+        or = orzo;
+        CellphoneGrid = "";
+        CellphoneGrid = Grid;      
+      }
+    public void CreateComposite(String Tower, String Grid)
+      {
+        String Composite01;
+        Composite01 = "";
+        Composite01 = Tower;
+        Composite01 = CellphoneTower;
+        CellphoneGrid = Grid;
+        Composite01 += CellphoneGrid
+      }
+    public String[] CreateCombination00(String[] Composite02)
+      {
+/** So that, String[] Composite02 = String[] Combination02
+*/
+        String[] Combination02;
+        Combination02 = null;
+/** Therefore, String[] Composite02 = String[] Combination02
+*/
+        Composite02 = Combination02;
+/** Therefore, String[] Combination02 = String[] Composite02
+*/
+        Combination02 = Composite02;
+        Combination02 = CellphoneTower;
+        Combination02 += CellphoneGrid;
+                      or
+        Combination02 = Composite02;
+        Combination02[0] = null;
+        Combination02[0] = CellphoneTower;
+        Combination02[1] = null;
+        Combination02[1] = CellphoneGrid;
+/** Therefore, Combination02 = CellphoneTower, CellphoneGrid
+*/
+        return Combination02;
+      }
+    public ArrayList<String>() CreateCombination01(ArrayList<String>() Composite03)
+      {
+/** So that, ArrayList<String> Composite03 = ArrayList<String> Combination03
+*/
+        ArrayList<String> Combination03 = new ArrayList<String>()
+        Combination03 = null;
+/** Therefore, ArrayList<String> Composite03 = ArrayList<String> Combination03
+*/
+        Composite03.equals(Combination03);
+/** Therefore, ArrayList<String> Combination03 = ArrayList<String> Composite03
+*/
+        Combination03.equals(Composite03);
+        Combination03.equals(CellphoneTower);
+        Combination03.add(CellphoneGrid, 1);
+                      or
+        Combination03.equals(Composite03);
+        Combination03.add(CellphoneTower, 0);
+        Combination03.add(CellphoneGrid, 1);
+/** Therefore, ArrayList<String> Combination03 = (CellphoneTower, 0), (CellphoneGrid, 1)
+*/
+      }
+    public String toString()
+      {
+        CreateComposite("Tower", "Grid")
+        return Composite01;
+      }
+    public void print()
+      {
+        CreateComposite("Tower", "Grid")
+                    or
+        toString();
+        System.out.println();
+        System.out.println(Composite01);
+        System.out.println();
+      }
+
+# Welcome to:
+# The Repositery (Repositery Number 2.0) for the Additional Components of the Cellphone (the Cellphone referring to the Cellphone from the other Repositery (Repositery Number 1.0)
+
+/** None for now at this point in the present (lol)
+*/
+  /** However, in the future, there will be much more to this code.
+  */
+
+/** ... 
+*/
+/**
+* Write a description of README.md here
+*
+* Author(s) (Full Name(s)) 5 Authors (Stephen Davis, Michael Davis, Katie Davis, Dawn Davis, and Robert Davis)
+* Date(s) (Every Date or All Dates) 1 Date (November 17, 2018 (11/17/2018))
+*/
+/** Add in any Imports and Exports
+*/
+import java.util.ArrayList;
+import java.util.*;
+import java.awt.*;
+/** Define Public Class below
+*/
+    public class README.md
+     {
+        public static void main (String [] args)  
+          {
+            CellphoneTowerorGrid();
+            CellphoneTowerorGrid("Tower", null, "Grid");
+            CreateComposite();
+            CreateCombination();
+            String Components00 = "Welcome-To:";
+            String Components01 = "The-Repositery-(Repositery-Number-2.0)-for-the-Additional-Components-of-the-Cellphone-(the-
+            Cellphone-referring-to-the-Cellphone-from-the-other-Repositery-(Repositery-Number-1.0)";
+            System.out.println();
+            System.out.println(Components00);
+            System.out.println();
+            String Indent00 = "---------";
+            String Composite00 = Indent00 + Components01
+            System.out.println();
+            System.out.println(Composite00);
+            System.out.println();
+            CellphoneTowerorGrid();
+            CellphoneTowerorGrid("Tower", null, "Grid");
+            CreateComposite();
+            CreateCombination();
+            toString();
+            print();
+          }    
+     }
+}
